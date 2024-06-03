@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @ZaneleThecoder</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=661667&random=false&width=435&lines=I'm+%40ZaneleThecoder" alt="Typing SVG" /></a></h1>
 <h3 align="center">A Devoted Full-stack developer from South Africa</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zanelethecoder&label=Profile%20views&color=0e75b6&style=flat" alt="zanelethecoder" /> </p>
